@@ -4,13 +4,13 @@ metric = float(input('Enter a metric in meters: '))
 
 
 def main(meters):
-    print('The metric {} in cm is {}'.format(meters, convert('cm', meters)))
-    print('The metric {} in mm is {}'.format(meters, convert('mm', meters)))
+    print('KM: {}'.format(metric / 1000))
+    print('HM: {}'.format(metric / 100))
+    print('DAM: {}'.format(metric / 10))
+    print('M: {}'.format(metric / 1))
+    print('DM: {}'.format(metric * 10))
+    print('CM: {}'.format(metric * 100))
+    print('MM: {}'.format(metric * 1000))
 
-def convert(unit, meters):
-    if unit == 'cm':
-        return meters * 100
-    elif unit == 'mm':
-        return meters * 1000
 
 main(metric)
