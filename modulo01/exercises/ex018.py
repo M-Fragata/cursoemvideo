@@ -1,0 +1,1 @@
+##Faça um programa que leita um angulo qualquer e mostre na sua tela o valor do seno, cosseno e tangenta desse ângulo.
