@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f3b99be7-1c9f-4217-bcb3-e32a1a621e9f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/modulo01/exercises/ex028.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo01/exercises/ex029.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo01/exercises/ex030.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo01/exercises/ex031.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo01/exercises/ex032.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo01/exercises/ex033.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo01/exercises/ex034.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modulo01/exercises/ex035.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo01/exercises/ex028.py" beforeDir="false" afterPath="$PROJECT_DIR$/modulo01/exercises/ex028.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo01/exercises/ex029.py" beforeDir="false" afterPath="$PROJECT_DIR$/modulo01/exercises/ex029.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo01/exercises/ex032.py" beforeDir="false" afterPath="$PROJECT_DIR$/modulo01/exercises/ex032.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo01/exercises/ex033.py" beforeDir="false" afterPath="$PROJECT_DIR$/modulo01/exercises/ex033.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,61 +38,62 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.cl001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cl002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cl003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cl004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cl005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex000.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex001.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex002.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex003.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex004.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex005.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex006.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex007.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex008.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex009.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex010.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex011.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex012.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex013.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex014.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex015.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex016.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex017.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex018.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex019.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex020.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex021.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex022.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex023.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex024.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex025.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex026.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex027.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex028.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex029.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex030.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex031.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex033.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex034.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ex035.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.cl001.executor": "Run",
+    "Python.cl002.executor": "Run",
+    "Python.cl003.executor": "Run",
+    "Python.cl004.executor": "Run",
+    "Python.cl005.executor": "Run",
+    "Python.ex000.executor": "Run",
+    "Python.ex001.executor": "Run",
+    "Python.ex002.executor": "Run",
+    "Python.ex003.executor": "Run",
+    "Python.ex004.executor": "Run",
+    "Python.ex005.executor": "Run",
+    "Python.ex006.executor": "Run",
+    "Python.ex007.executor": "Run",
+    "Python.ex008.executor": "Run",
+    "Python.ex009.executor": "Run",
+    "Python.ex010.executor": "Run",
+    "Python.ex011.executor": "Run",
+    "Python.ex012.executor": "Run",
+    "Python.ex013.executor": "Run",
+    "Python.ex014.executor": "Run",
+    "Python.ex015.executor": "Run",
+    "Python.ex016.executor": "Run",
+    "Python.ex017.executor": "Run",
+    "Python.ex018.executor": "Run",
+    "Python.ex019.executor": "Run",
+    "Python.ex020.executor": "Run",
+    "Python.ex021.executor": "Run",
+    "Python.ex022.executor": "Run",
+    "Python.ex023.executor": "Run",
+    "Python.ex024.executor": "Run",
+    "Python.ex025.executor": "Run",
+    "Python.ex026.executor": "Run",
+    "Python.ex027.executor": "Run",
+    "Python.ex028.executor": "Run",
+    "Python.ex029.executor": "Run",
+    "Python.ex030.executor": "Run",
+    "Python.ex031.executor": "Run",
+    "Python.ex032.executor": "Run",
+    "Python.ex033.executor": "Run",
+    "Python.ex034.executor": "Run",
+    "Python.ex035.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.jshint": "true",
+    "node.js.selected.package.jshint": "",
+    "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\matheusmoraes\PycharmProjects\cursoemvideo\modulo01\class" />
@@ -105,7 +102,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.ex032">
-    <configuration name="ex031" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ex028" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cursoemvideo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,7 +118,32 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulo01/exercises/ex031.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulo01/exercises/ex028.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex029" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cursoemvideo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulo01/exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulo01/exercises/ex029.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,31 +169,6 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulo01/exercises/ex032.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex033" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cursoemvideo" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulo01/exercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulo01/exercises/ex033.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,10 +230,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.ex032" />
+        <item itemvalue="Python.ex029" />
+        <item itemvalue="Python.ex028" />
         <item itemvalue="Python.ex035" />
         <item itemvalue="Python.ex034" />
-        <item itemvalue="Python.ex033" />
-        <item itemvalue="Python.ex031" />
       </list>
     </recent_temporary>
   </component>
@@ -257,6 +254,7 @@
       <workItem from="1789738264354" duration="17259000" />
       <workItem from="1789998082016" duration="14100000" />
       <workItem from="1790079143914" duration="6787000" />
+      <workItem from="1790088275456" duration="2723000" />
     </task>
     <servers />
   </component>
@@ -266,11 +264,12 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/cursoemvideo$ex020.coverage" NAME="ex020 Coverage Results" MODIFIED="1790005428430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
     <SUITE FILE_PATH="coverage/cursoemvideo$ex014.coverage" NAME="ex014 Coverage Results" MODIFIED="1789756740897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
-    <SUITE FILE_PATH="coverage/cursoemvideo$ex029.coverage" NAME="ex029 Coverage Results" MODIFIED="1790085143897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex029.coverage" NAME="ex029 Coverage Results" MODIFIED="1790089234668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
     <SUITE FILE_PATH="coverage/cursoemvideo$ex023.coverage" NAME="ex023 Coverage Results" MODIFIED="1790018693319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
     <SUITE FILE_PATH="coverage/cursoemvideo$ex003.coverage" NAME="ex003 Coverage Results" MODIFIED="1789741114062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
     <SUITE FILE_PATH="coverage/cursoemvideo$ex008.coverage" NAME="ex008 Coverage Results" MODIFIED="1789756333248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
     <SUITE FILE_PATH="coverage/cursoemvideo$ex035.coverage" NAME="ex035 Coverage Results" MODIFIED="1790086625418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex032.coverage" NAME="ex032 Coverage Results" MODIFIED="1790090429395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
     <SUITE FILE_PATH="coverage/cursoemvideo$ex026.coverage" NAME="ex026 Coverage Results" MODIFIED="1790080249398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
     <SUITE FILE_PATH="coverage/cursoemvideo$ex017.coverage" NAME="ex017 Coverage Results" MODIFIED="1790001305103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
     <SUITE FILE_PATH="coverage/cursoemvideo$cl005.coverage" NAME="cl005 Coverage Results" MODIFIED="1790082164868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/class" />
@@ -303,6 +302,6 @@
     <SUITE FILE_PATH="coverage/cursoemvideo$ex034.coverage" NAME="ex034 Coverage Results" MODIFIED="1790086406029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
     <SUITE FILE_PATH="coverage/cursoemvideo$ex011.coverage" NAME="ex011 Coverage Results" MODIFIED="1789752988509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
     <SUITE FILE_PATH="coverage/cursoemvideo$ex002.coverage" NAME="ex002 Coverage Results" MODIFIED="1789739833556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
-    <SUITE FILE_PATH="coverage/cursoemvideo$ex028.coverage" NAME="ex028 Coverage Results" MODIFIED="1790083827291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex028.coverage" NAME="ex028 Coverage Results" MODIFIED="1790089017676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
   </component>
 </project>
