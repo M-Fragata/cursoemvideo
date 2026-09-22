@@ -1,0 +1,1 @@
+## Crie um programa que leia duas notas de um aluno e calcule sua média, mostrando uma mensagem no final, de acordo com a média. - abaixo de 5 reprovado; - entre 5 e 6.9 recuperação e 7 ou mais aprovado
