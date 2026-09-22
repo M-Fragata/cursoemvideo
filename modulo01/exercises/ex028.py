@@ -4,14 +4,17 @@
 import random
 
 def main():
+    print('-=-' * 16)
+    print("I'll think a number between 1 and 5, try get it!")
+    print('-=-' * 16)
+    user = int(input('Your try: '))
     machine = random.randint(1,5)
-    user = int(input('Enter a number between 1 and 5: '))
 
     if user < 1 or user > 5:
         print('Invalid Number')
         return
 
-    print(f"You: {user}, machine: {machine}")
+    print(f"You: {user}, Machine: {machine}")
     print('You Win!' if user == machine else 'You Lose!')
 
 main()

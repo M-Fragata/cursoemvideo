@@ -12,6 +12,6 @@ def main():
 
     multado = car_speed > 80
     velocidadeacima = car_speed - 80
-    print(f"{velocidadeacima}Km/h acima da velocidade máxima, multa de: {velocidadeacima * 7}" if multado else f"Velocidade OK")
+    print(f"MULTADO! excedeu em {velocidadeacima}Km/h o limite de velocidade da via, multa de: R${velocidadeacima * 7}" if multado else f"Dirija com segurança, tenha um bom dia!")
 
 main()

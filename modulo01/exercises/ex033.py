@@ -19,6 +19,6 @@ def main():
         bigger = n3
         smallest = n2 if n2 < n1 else n1
 
-    print(f"Maior: {bigger}, Menor: {smallest}")
+    print(f"Maior valor: {bigger}, Menor valor: {smallest}")
 
 main()
