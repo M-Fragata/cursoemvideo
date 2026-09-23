@@ -21,7 +21,7 @@ def main():
         print(f"2x de {payment / 2:.2f}, total de R${payment:.2f}")
     elif pagamento == 4:
         payment = value + value * 0.2
-        print(f"3x de {payment / 3:.2f}, total de R${payment:.2f}")
+        print(f"3x de {payment / 3:.2f} com JUROS, total de R${payment:.2f}")
     else:
         print('Forma de pagamento não encontrada')
 
