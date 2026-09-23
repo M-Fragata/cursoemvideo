@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f3b99be7-1c9f-4217-bcb3-e32a1a621e9f" name="Changes" comment="" />
+    <list default="true" id="f3b99be7-1c9f-4217-bcb3-e32a1a621e9f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo02/exercises/ex037.py" beforeDir="false" afterPath="$PROJECT_DIR$/modulo02/exercises/ex037.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo02/exercises/ex038.py" beforeDir="false" afterPath="$PROJECT_DIR$/modulo02/exercises/ex038.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo02/exercises/ex039.py" beforeDir="false" afterPath="$PROJECT_DIR$/modulo02/exercises/ex039.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo02/exercises/ex040.py" beforeDir="false" afterPath="$PROJECT_DIR$/modulo02/exercises/ex040.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo02/exercises/ex041.py" beforeDir="false" afterPath="$PROJECT_DIR$/modulo02/exercises/ex041.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo02/exercises/ex042.py" beforeDir="false" afterPath="$PROJECT_DIR$/modulo02/exercises/ex042.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo02/exercises/ex043.py" beforeDir="false" afterPath="$PROJECT_DIR$/modulo02/exercises/ex043.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modulo02/exercises/ex045.py" beforeDir="false" afterPath="$PROJECT_DIR$/modulo02/exercises/ex045.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,6 +88,14 @@
     "Python.ex034.executor": "Run",
     "Python.ex035.executor": "Run",
     "Python.ex036.executor": "Run",
+    "Python.ex037.executor": "Run",
+    "Python.ex038.executor": "Run",
+    "Python.ex039.executor": "Run",
+    "Python.ex040.executor": "Run",
+    "Python.ex041.executor": "Run",
+    "Python.ex042.executor": "Run",
+    "Python.ex043.executor": "Run",
+    "Python.ex045.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
@@ -97,108 +115,8 @@
       <recent name="C:\Users\matheusmoraes\PycharmProjects\cursoemvideo\modulo01" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ex036">
-    <configuration name="cl006" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cursoemvideo" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulo01/class" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulo01/class/cl006.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="cl007" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cursoemvideo" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulo02/class" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="C:\Users\matheusmoraes\PycharmProjects\cursoemvideo\modulo02\class\cl007.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex029" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cursoemvideo" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulo01/exercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulo01/exercises/ex029.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex032" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cursoemvideo" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulo01/exercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="DEBUG_JUST_MY_CODE" value="false" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulo01/exercises/ex032.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex036" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.ex045">
+    <configuration name="ex040" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cursoemvideo" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,7 +132,107 @@
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulo02/exercises/ex036.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulo02/exercises/ex040.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex041" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cursoemvideo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulo02/exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulo02/exercises/ex041.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex042" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cursoemvideo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulo02/exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulo02/exercises/ex042.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex043" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cursoemvideo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulo02/exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulo02/exercises/ex043.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex045" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cursoemvideo" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/modulo02/exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modulo02/exercises/ex045.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,11 +243,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ex036" />
-        <item itemvalue="Python.cl007" />
-        <item itemvalue="Python.cl006" />
-        <item itemvalue="Python.ex032" />
-        <item itemvalue="Python.ex029" />
+        <item itemvalue="Python.ex045" />
+        <item itemvalue="Python.ex043" />
+        <item itemvalue="Python.ex042" />
+        <item itemvalue="Python.ex041" />
+        <item itemvalue="Python.ex040" />
       </list>
     </recent_temporary>
   </component>
@@ -251,55 +269,75 @@
       <workItem from="1789998082016" duration="14100000" />
       <workItem from="1790079143914" duration="6787000" />
       <workItem from="1790088275456" duration="9599000" />
+      <workItem from="1790180367331" duration="5721000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/modulo02/exercises/ex045.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/cursoemvideo$ex020.coverage" NAME="ex020 Coverage Results" MODIFIED="1790005428430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
-    <SUITE FILE_PATH="coverage/cursoemvideo$ex014.coverage" NAME="ex014 Coverage Results" MODIFIED="1789756740897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
-    <SUITE FILE_PATH="coverage/cursoemvideo$ex029.coverage" NAME="ex029 Coverage Results" MODIFIED="1790089234668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
-    <SUITE FILE_PATH="coverage/cursoemvideo$ex023.coverage" NAME="ex023 Coverage Results" MODIFIED="1790018693319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex040.coverage" NAME="ex040 Coverage Results" MODIFIED="1790181743290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo02/exercises" />
     <SUITE FILE_PATH="coverage/cursoemvideo$ex003.coverage" NAME="ex003 Coverage Results" MODIFIED="1789741114062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
-    <SUITE FILE_PATH="coverage/cursoemvideo$ex008.coverage" NAME="ex008 Coverage Results" MODIFIED="1789756333248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
-    <SUITE FILE_PATH="coverage/cursoemvideo$ex035.coverage" NAME="ex035 Coverage Results" MODIFIED="1790086625418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
-    <SUITE FILE_PATH="coverage/cursoemvideo$ex032.coverage" NAME="ex032 Coverage Results" MODIFIED="1790090429395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
-    <SUITE FILE_PATH="coverage/cursoemvideo$ex026.coverage" NAME="ex026 Coverage Results" MODIFIED="1790080249398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
-    <SUITE FILE_PATH="coverage/cursoemvideo$ex017.coverage" NAME="ex017 Coverage Results" MODIFIED="1790001305103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
-    <SUITE FILE_PATH="coverage/cursoemvideo$cl005.coverage" NAME="cl005 Coverage Results" MODIFIED="1790082164868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/class" />
     <SUITE FILE_PATH="coverage/cursoemvideo$ex000.coverage" NAME="ex000 Coverage Results" MODIFIED="1789738799938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/cursoemvideo$cl001.coverage" NAME="cl001 Coverage Results" MODIFIED="1790104888197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo02/class" />
     <SUITE FILE_PATH="coverage/cursoemvideo$ex018.coverage" NAME="ex018 Coverage Results" MODIFIED="1789998771403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
     <SUITE FILE_PATH="coverage/cursoemvideo$cl004.coverage" NAME="cl004 Coverage Results" MODIFIED="1790007365022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/class" />
-    <SUITE FILE_PATH="coverage/cursoemvideo$cl002.coverage" NAME="cl002 Coverage Results" MODIFIED="1789744062211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/class" />
     <SUITE FILE_PATH="coverage/cursoemvideo$ex012.coverage" NAME="ex012 Coverage Results" MODIFIED="1789753467330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
     <SUITE FILE_PATH="coverage/cursoemvideo$ex021.coverage" NAME="ex021 Coverage Results" MODIFIED="1790006120303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
     <SUITE FILE_PATH="coverage/cursoemvideo$ex024.coverage" NAME="ex024 Coverage Results" MODIFIED="1790018945208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
     <SUITE FILE_PATH="coverage/cursoemvideo$ex006.coverage" NAME="ex006 Coverage Results" MODIFIED="1789750848116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
     <SUITE FILE_PATH="coverage/cursoemvideo$ex009.coverage" NAME="ex009 Coverage Results" MODIFIED="1789752080498" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
     <SUITE FILE_PATH="coverage/cursoemvideo$ex015.coverage" NAME="ex015 Coverage Results" MODIFIED="1789758493425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
-    <SUITE FILE_PATH="coverage/cursoemvideo$ex004.coverage" NAME="ex004 Coverage Results" MODIFIED="1789741908826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
-    <SUITE FILE_PATH="coverage/cursoemvideo$cl003.coverage" NAME="cl003 Coverage Results" MODIFIED="1789760610007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/class" />
     <SUITE FILE_PATH="coverage/cursoemvideo$ex036.coverage" NAME="ex036 Coverage Results" MODIFIED="1790106801986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo02/exercises" />
-    <SUITE FILE_PATH="coverage/cursoemvideo$ex001.coverage" NAME="ex001 Coverage Results" MODIFIED="1789739443165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
-    <SUITE FILE_PATH="coverage/cursoemvideo$ex030.coverage" NAME="ex030 Coverage Results" MODIFIED="1790085254643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
     <SUITE FILE_PATH="coverage/cursoemvideo$cl006.coverage" NAME="cl006 Coverage Results" MODIFIED="1790092552277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/class" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex001.coverage" NAME="ex001 Coverage Results" MODIFIED="1789739443165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
     <SUITE FILE_PATH="coverage/cursoemvideo$ex007.coverage" NAME="ex007 Coverage Results" MODIFIED="1789751021511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
-    <SUITE FILE_PATH="coverage/cursoemvideo$ex033.coverage" NAME="ex033 Coverage Results" MODIFIED="1790086241063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
-    <SUITE FILE_PATH="coverage/cursoemvideo$ex010.coverage" NAME="ex010 Coverage Results" MODIFIED="1789752482971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
-    <SUITE FILE_PATH="coverage/cursoemvideo$ex027.coverage" NAME="ex027 Coverage Results" MODIFIED="1790020142642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
-    <SUITE FILE_PATH="coverage/cursoemvideo$ex016.coverage" NAME="ex016 Coverage Results" MODIFIED="1790001098281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
-    <SUITE FILE_PATH="coverage/cursoemvideo$ex022.coverage" NAME="ex022 Coverage Results" MODIFIED="1790015989049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex042.coverage" NAME="ex042 Coverage Results" MODIFIED="1790184067674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo02/exercises" />
     <SUITE FILE_PATH="coverage/cursoemvideo$ex013.coverage" NAME="ex013 Coverage Results" MODIFIED="1789754598706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
     <SUITE FILE_PATH="coverage/cursoemvideo$ex031.coverage" NAME="ex031 Coverage Results" MODIFIED="1790085420250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
     <SUITE FILE_PATH="coverage/cursoemvideo$ex025.coverage" NAME="ex025 Coverage Results" MODIFIED="1790020009080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
     <SUITE FILE_PATH="coverage/cursoemvideo$ex019.coverage" NAME="ex019 Coverage Results" MODIFIED="1789999162249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex043.coverage" NAME="ex043 Coverage Results" MODIFIED="1790184540072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo02/exercises" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex002.coverage" NAME="ex002 Coverage Results" MODIFIED="1789739833556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex037.coverage" NAME="ex037 Coverage Results" MODIFIED="1790180565645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo02/exercises" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex020.coverage" NAME="ex020 Coverage Results" MODIFIED="1790005428430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex014.coverage" NAME="ex014 Coverage Results" MODIFIED="1789756740897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex029.coverage" NAME="ex029 Coverage Results" MODIFIED="1790089234668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex023.coverage" NAME="ex023 Coverage Results" MODIFIED="1790018693319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex008.coverage" NAME="ex008 Coverage Results" MODIFIED="1789756333248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex035.coverage" NAME="ex035 Coverage Results" MODIFIED="1790086625418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex032.coverage" NAME="ex032 Coverage Results" MODIFIED="1790090429395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex026.coverage" NAME="ex026 Coverage Results" MODIFIED="1790080249398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex017.coverage" NAME="ex017 Coverage Results" MODIFIED="1790001305103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$cl005.coverage" NAME="cl005 Coverage Results" MODIFIED="1790082164868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/class" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex038.coverage" NAME="ex038 Coverage Results" MODIFIED="1790181101625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo02/exercises" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$cl002.coverage" NAME="cl002 Coverage Results" MODIFIED="1789744062211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/class" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$cl003.coverage" NAME="cl003 Coverage Results" MODIFIED="1789760610007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/class" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex004.coverage" NAME="ex004 Coverage Results" MODIFIED="1789741908826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex030.coverage" NAME="ex030 Coverage Results" MODIFIED="1790085254643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex039.coverage" NAME="ex039 Coverage Results" MODIFIED="1790181453832" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo02/exercises" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex033.coverage" NAME="ex033 Coverage Results" MODIFIED="1790086241063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex010.coverage" NAME="ex010 Coverage Results" MODIFIED="1789752482971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex027.coverage" NAME="ex027 Coverage Results" MODIFIED="1790020142642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex016.coverage" NAME="ex016 Coverage Results" MODIFIED="1790001098281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex045.coverage" NAME="ex045 Coverage Results" MODIFIED="1790186365277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo02/exercises" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex022.coverage" NAME="ex022 Coverage Results" MODIFIED="1790015989049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
+    <SUITE FILE_PATH="coverage/cursoemvideo$ex041.coverage" NAME="ex041 Coverage Results" MODIFIED="1790183690508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo02/exercises" />
     <SUITE FILE_PATH="coverage/cursoemvideo$ex005.coverage" NAME="ex005 Coverage Results" MODIFIED="1789750653506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
     <SUITE FILE_PATH="coverage/cursoemvideo$ex034.coverage" NAME="ex034 Coverage Results" MODIFIED="1790086406029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
     <SUITE FILE_PATH="coverage/cursoemvideo$ex011.coverage" NAME="ex011 Coverage Results" MODIFIED="1789752988509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
-    <SUITE FILE_PATH="coverage/cursoemvideo$ex002.coverage" NAME="ex002 Coverage Results" MODIFIED="1789739833556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
     <SUITE FILE_PATH="coverage/cursoemvideo$ex028.coverage" NAME="ex028 Coverage Results" MODIFIED="1790089017676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/modulo01/exercises" />
   </component>
 </project>
